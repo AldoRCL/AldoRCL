@@ -5,7 +5,7 @@
   <h3> Powered by Cloudflare Workers ⚡</h3>
  </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,angular,bootstrap,cs,discord,django,figma,git,github,instagram,linkedin,linux,materialui,mongodb,mysql,nodejs,postgres,py,ruby,rails,sass,sqlite,ts,vscode,)](https://skillicons.dev)
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,git,linux,mysql,postgres,py,ruby,rails,sass,sqlite,ts)](https://skillicons.dev)
 
