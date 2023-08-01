@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,django,github,materialui,mongodb,nodejs,vscode,)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=discordfigma,github,instagram,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,github,instagram,linkedin)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldorcl&theme=dark&show_icons=true)
 <!--
