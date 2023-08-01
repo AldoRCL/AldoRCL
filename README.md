@@ -7,7 +7,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,angular,bootstrap,cs,discord,django,figma,git,github,instagram,linkedin,linux,materialui,mongodb,mysql,nodejs,postgres,py,ruby,rails,sass,sqlite,ts,vscode,)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldorcl&theme=dark&show_icons=true)
 <!--
 **AldoRCL/AldoRCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
