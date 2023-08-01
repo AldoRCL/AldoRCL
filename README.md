@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,cs,git,linux,mysql,postgres,py,ruby,rails,sass,sqlite,ts)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,django,github,materialui,mongodb,nodejs,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,django,git,materialui,mongodb,nodejs,vscode,)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=discord,figma,github,instagram,linkedin)](https://skillicons.dev)
 
